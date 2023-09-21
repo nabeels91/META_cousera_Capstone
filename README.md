@@ -1,2 +1,1 @@
-# META_cousera_Capstone
-final submission
+# Final Project for Coursera Meta Database Engineer Professional Certificate
